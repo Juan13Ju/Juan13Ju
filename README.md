@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Juan Aurelio 👋</h1>
+<h1 align="center">Hey there, I'm Juan 👋</h1>
 <p align="center">Software Developer • AI Explorer • Language Learner • Side Project Tinkerer</p>
 
 ---
