@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Juan Aurelio 👋</h1>
+<p align="center">Software Developer • AI Explorer • Language Learner • Side Project Tinkerer</p>
 
-<!--
-**Juan13Ju/Juan13Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CS Graduate from UNAM | Currently working as a Fullstack Dev  
+- 📚 Writing a thesis on Japanese Automatic Speech Recognition (Wav2Vec2 + Transformers)  
+- 🗣 Learning **Japanese** 🇯🇵 and **German** 🇩🇪  
+- 🌍 Passionate about international experience — studied in Japan, aiming for a master's abroad  
+- 💡 Side projects: Language learning platform.
+- 🎮 I love videogames and would love to make one someday
+
+---
+
+### ⚙️ Tech Stack
+
+```yaml
+Languages: Python, JavaScript, SQL, C#
+Frameworks: FastAPI, React, Node.js, ASPnet
+Cloud: AWS (Lambda, DynamoDB, API Gateway, CloudFormation)
+Tools: Git, VSCode, Docker, MySQL, Hugging Face, Colab
